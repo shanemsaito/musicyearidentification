@@ -1,5 +1,5 @@
 # Music Decade Identification
-Deep learning model that can predict the musical decade of a song at 88.3% accuracy developed using PyTorch. Training data derived from the Spotify Web API.
+Deep learning model that can predict the musical decade of a song at 92.7% accuracy developed using PyTorch. Training data derived from the Spotify Web API.
 
 ## Dataset
 
